@@ -1,0 +1,2 @@
+# QLKhachSan
+Manage hotel
