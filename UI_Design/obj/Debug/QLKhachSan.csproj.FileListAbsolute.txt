@@ -1,0 +1,17 @@
+D:\M-NMCNPM\DoAn\QLKhachSan\bin\Debug\QLKhachSan.exe.config
+D:\M-NMCNPM\DoAn\QLKhachSan\bin\Debug\QLKhachSan.exe
+D:\M-NMCNPM\DoAn\QLKhachSan\bin\Debug\QLKhachSan.pdb
+D:\M-NMCNPM\DoAn\QLKhachSan\obj\Debug\QLKhachSan.csprojAssemblyReference.cache
+D:\M-NMCNPM\DoAn\QLKhachSan\obj\Debug\QLKhachSan.DangNhap.resources
+D:\M-NMCNPM\DoAn\QLKhachSan\obj\Debug\QLKhachSan.Home.resources
+D:\M-NMCNPM\DoAn\QLKhachSan\obj\Debug\QLKhachSan.KeToan.resources
+D:\M-NMCNPM\DoAn\QLKhachSan\obj\Debug\QLKhachSan.LeTan.resources
+D:\M-NMCNPM\DoAn\QLKhachSan\obj\Debug\QLKhachSan.NhanSu.resources
+D:\M-NMCNPM\DoAn\QLKhachSan\obj\Debug\QLKhachSan.Properties.Resources.resources
+D:\M-NMCNPM\DoAn\QLKhachSan\obj\Debug\QLKhachSan.QuanLy.resources
+D:\M-NMCNPM\DoAn\QLKhachSan\obj\Debug\QLKhachSan.SoDoPhong.resources
+D:\M-NMCNPM\DoAn\QLKhachSan\obj\Debug\QLKhachSan.Thoat.resources
+D:\M-NMCNPM\DoAn\QLKhachSan\obj\Debug\QLKhachSan.csproj.GenerateResource.cache
+D:\M-NMCNPM\DoAn\QLKhachSan\obj\Debug\QLKhachSan.csproj.CoreCompileInputs.cache
+D:\M-NMCNPM\DoAn\QLKhachSan\obj\Debug\QLKhachSan.exe
+D:\M-NMCNPM\DoAn\QLKhachSan\obj\Debug\QLKhachSan.pdb
