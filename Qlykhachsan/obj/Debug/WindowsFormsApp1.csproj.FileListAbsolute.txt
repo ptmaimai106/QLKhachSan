@@ -1,0 +1,22 @@
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LeTan.resources
+C:\Users\Dell\Documents\TÀI LIỆU\Năm 3\Năm 3.1\NMCNPM\TeamWork\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Dell\Documents\TÀI LIỆU\Năm 3\Năm 3.1\NMCNPM\TeamWork\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Dell\Documents\TÀI LIỆU\Năm 3\Năm 3.1\NMCNPM\TeamWork\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Dell\Documents\TÀI LIỆU\Năm 3\Năm 3.1\NMCNPM\TeamWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\TÀI LIỆU\Năm 3\Năm 3.1\NMCNPM\TeamWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Dell\Documents\TÀI LIỆU\Năm 3\Năm 3.1\NMCNPM\TeamWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LeTan.resources
+C:\Users\Dell\Documents\TÀI LIỆU\Năm 3\Năm 3.1\NMCNPM\TeamWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dell\Documents\TÀI LIỆU\Năm 3\Năm 3.1\NMCNPM\TeamWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\TÀI LIỆU\Năm 3\Năm 3.1\NMCNPM\TeamWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\TÀI LIỆU\Năm 3\Năm 3.1\NMCNPM\TeamWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Dell\Documents\TÀI LIỆU\Năm 3\Năm 3.1\NMCNPM\TeamWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
